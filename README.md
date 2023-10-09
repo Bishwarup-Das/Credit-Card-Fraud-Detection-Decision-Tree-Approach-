@@ -33,16 +33,16 @@ To get started with this project, follow these steps: <br><br>
   <code>
     git clone https://github.com/Bishwarup-Das/Credit-Card-Fraud-Detection-Decision-Tree-Approach-.git<br>
     cd credit-card-fraud-detection
-  </code><br><br>
+  </code>
   <li>Create a virtual environment (optional but recommended):</li>
   <code>
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-  </code><br><br>
+  </code>
   <li>install the required dependencies:</li>
   <code>
     pip install -r requirements.txt
-  </code><br><br>
+  </code>
 </ol>
 
 
