@@ -52,7 +52,7 @@ To train and use the Decision Tree model for credit card fraud detection, follow
 <ol>
   <li>Open a terminal and navigate to the project directory.</li>
   <li>Make sure you have placed the Credit Card Fraud Detection Dataset in the "data" directory as mentioned in the Dataset section </li>
-  <li>Run the Jupyter notebook credit_card_fraud_detection.ipynb. This notebook contains the code for data preprocessing, model   training, evaluation, and prediction.</li>
+  <li>Run the Jupyter notebook Credicard Fraud Detection (Decision Tree).ipynb. This notebook contains the code for data preprocessing, model   training, evaluation, and prediction.</li>
   <li>Follow the instructions and code within the notebook to train the Decision Tree model and make predictions.</li>
 </ol><br><br>
 
