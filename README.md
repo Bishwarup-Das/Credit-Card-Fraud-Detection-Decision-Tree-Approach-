@@ -69,3 +69,28 @@ After training and evaluating the Decision Tree model, you can expect to see the
 </ul><br><br>
 
 
+## Contributing
+
+If you would like to contribute to this project, please follow these steps:<br><br>
+
+<ol>
+  <li>Fork the repository.</li>
+  <li>Create a new branch for your feature or bug fix:</li>
+  <card></card>
+  <li>Make your changes and commit them:</li>
+  <card></card>
+  <li>Push your changes to your fork:</li>
+  <card></card>
+  <li>Create a pull request on the original repository, explaining your changes and their purpose.</li>
+</ol>
+
+
+We welcome contributions from the community!
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.<br><br>
+
+Feel free to reach out to us with any questions or feedback. Happy fraud detection!<br><br>
+
