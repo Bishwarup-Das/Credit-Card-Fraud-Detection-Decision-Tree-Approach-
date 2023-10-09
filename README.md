@@ -43,7 +43,7 @@ To get started with this project, follow these steps: <br><br>
   <code>
     pip install -r requirements.txt
   </code>
-</ol>
+</ol><br>
 
 
 ## Usage
