@@ -76,7 +76,7 @@ If you would like to contribute to this project, please follow these steps:<br><
 <ol>
   <li>Fork the repository.</li>
   <li>Create a new branch for your feature or bug fix:</li>
-  <code>git checkout -b feature/new-feature</code>
+  <code>git checkout -b feature/new-feature</code> 
   <li>Make your changes and commit them:</li>
   <code>git commit -m "Add new feature or fix bug"</code>
   <li>Push your changes to your fork:</li>
