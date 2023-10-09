@@ -4,7 +4,7 @@
 
 <ul>
   <li>Introduction</li>
-  <li>Dataset</li><
+  <li>Dataset</li>
   <li>Installation</li>
   <li>Usage</li>
   <li>Results</li>
@@ -29,9 +29,9 @@ Please download and place this dataset in a directory named "data" within the pr
 To get started with this project, follow these steps: <br><br>
 
 <ol>
-  <li>Clone the repository:</li><br>
+  <li>Clone the repository:</li>
   <code>
-    git clone https://github.com/yourusername/credit-card-fraud-detection.git<br>
+    git clone https://github.com/Bishwarup-Das/Credit-Card-Fraud-Detection-Decision-Tree-Approach-.git<br>
     cd credit-card-fraud-detection
   </code><br><br>
   <li>Create a virtual environment (optional but recommended):</li>
@@ -40,4 +40,32 @@ To get started with this project, follow these steps: <br><br>
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
   </code><br><br>
   <li>install the required dependencies:</li>
+  <code>
+    pip install -r requirements.txt
+  </code><br><br>
 </ol>
+
+
+## Usage
+
+To train and use the Decision Tree model for credit card fraud detection, follow these steps:<br><br>
+<ol>
+  <li>Open a terminal and navigate to the project directory.</li>
+  <li>Make sure you have placed the Credit Card Fraud Detection Dataset in the "data" directory as mentioned in the Dataset section </li>
+  <li>Run the Jupyter notebook credit_card_fraud_detection.ipynb. This notebook contains the code for data preprocessing, model   training, evaluation, and prediction.</li>
+  <li>Follow the instructions and code within the notebook to train the Decision Tree model and make predictions.</li>
+</ol><br><br>
+
+## Results
+
+After training and evaluating the Decision Tree model, you can expect to see the following results:<br><br>
+
+<ul>
+  <li>Confusion matrix</li>
+  <li>Precision, recall, and F1-score</li>
+  <li>Receiver Operating Characteristic (ROC) curve</li>
+  <li>Area Under the Curve (AUC) score</li>
+  <li>These metrics will help you assess the performance of the model in detecting credit card fraud.</li>
+</ul><br><br>
+
+
